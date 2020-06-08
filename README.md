@@ -49,3 +49,15 @@ Outras coisas:
 - Testes
 
 Boa sorte!
+
+
+''''''''
+Tech Stack:
+JDK 11
+Spring Boot (2.1.4)
+Gradle
+JPA
+JUnit (5.3.1)
+Mockito
+Hamcrest
+'''''''''
